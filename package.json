@@ -1,0 +1,23 @@
+{
+  "name": "pradio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt-develop/PRadio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt-develop/PRadio/issues"
+  },
+  "homepage": "https://github.com/Matt-develop/PRadio#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
