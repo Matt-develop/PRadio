@@ -1,7 +1,7 @@
 import { Command } from 'commander';
 import { Octokit } from '@octokit/rest';
 export function loadCommands(program: Command) {
-const octokit = new Octokit({ auth: 'your-github-token' });
+const octokit = new Octokit({ auth: 'your-github-token' }); // INSERT TOKEN
 program
 .command('github')
 .description('Interact with the GitHub API')

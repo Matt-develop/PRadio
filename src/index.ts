@@ -10,7 +10,7 @@ dotenv.config();
 
 
 const program = new Command();
-program.name('devastro').description('CLI divertido: playlist + horóscopo + animações').version('0.1.0');
+program.name('PRadio').description('Your part-time playlist maker').version('0.1.0');
 
 
 program
